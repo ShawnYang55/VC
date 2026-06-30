@@ -1,4 +1,0 @@
-interface:
-  display_name: "notion-writer"
-  short_description: "Update Notion product docs"
-  default_prompt: "Use $notion-writer to update a Notion product document from my notes."
